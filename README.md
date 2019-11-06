@@ -1,4 +1,4 @@
-## API usando NodeJS, MongoDB e Postgres do curso [NodeBR](https://api-heroes-node.herokuapp.com)
+## API usando NodeJS, MongoDB e Postgres do curso [NodeBR](https://treinamento.nodebr.org/)
 
 Disponível em: https://api-heroes-node.herokuapp.com
 
