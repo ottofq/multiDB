@@ -4,13 +4,13 @@ Disponível em: https://api-heroes-node.herokuapp.com
 
 <img src="https://i.imgur.com/LKjtrD2.png" alt="Swagger Page of that application" title="Swagger Page of that application"/>
 
-### Requirements
+### Requisitos
 
 - Node.js v10+
-- MongoDB running on local instance or Docker
-- Postgres running on local instance or Docker
+- MongoDB rodando localment ou uma instância do Docker
+- Postgres rodando localment ou uma instância do Docker
 
-#### Environment Variables
+#### Variáveis de Ambiente
 
 - JWT_KEY=
 - PORT=
@@ -20,7 +20,7 @@ Disponível em: https://api-heroes-node.herokuapp.com
 
 ### Running
 
-- Install dependencies - `npm i`
-- Run project - `npm start`
-- Go to swagger page - `localhost:3000/`
+- Instale as dependências - `npm i ou yarn `
+- Rode o projeto - `npm start ou yarn start`
+- Acessar o endereço - `localhost:3000/`
 

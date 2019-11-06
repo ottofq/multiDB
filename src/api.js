@@ -23,7 +23,10 @@ function mapRoutes(instace, methods) {
 }
 
 async function main() {
-  const connectionMongo = await MongoDB.connect();
+  const connectionMongo = await MongoDB.connect({
+    useUnifiedTopology: true,
+    useNewUrlParser: true
+  });
   const Mongocontext = new Context(new MongoDB(connectionMongo, heroesSchema));
   const connectionPostgres = await Postgres.connect();
   const model = await Postgres.defineModel(connectionPostgres, userSchema);
