@@ -12,11 +12,11 @@ Disponível em: https://api-heroes-node.herokuapp.com
 
 #### Environment Variables
 
-JWT_KEY=
-PORT=
-SALT=
-MONGODB_URL=
-POSTGRES_URL=
+- JWT_KEY=
+- PORT=
+- SALT=
+- MONGODB_URL=
+- POSTGRES_URL=
 
 ### Running
 
