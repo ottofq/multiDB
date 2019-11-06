@@ -7,8 +7,8 @@ Disponível em: https://api-heroes-node.herokuapp.com
 ### Requisitos
 
 - Node.js v10+
-- MongoDB rodando localment ou uma instância do Docker
-- Postgres rodando localment ou uma instância do Docker
+- MongoDB rodando localmente ou uma instância do Docker
+- Postgres rodando localmente ou uma instância do Docker
 
 #### Variáveis de Ambiente
 
@@ -22,5 +22,5 @@ Disponível em: https://api-heroes-node.herokuapp.com
 
 - Instale as dependências - `npm i ou yarn `
 - Rode o projeto - `npm start ou yarn start`
-- Acessar o endereço - `localhost:3000/`
+- Acessar o endereço - `localhost:5000/`
 
